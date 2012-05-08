@@ -1,0 +1,10 @@
+Package: RTDAmeritrade 
+Version: 0.0.1
+Date: 2011-06-4
+Title: RTDAmeritrade
+Author: Theodore Van Rooy
+Maintainer: Theodore Van Rooy <theodore.vanrooy@gmail.com>
+Depends: R (>= 2.9.1), xts, zoo, XML, RCurl, sfsmisc
+Description: The package contains functions that can be used to interface with the TDAmeritrade API.
+License: GPL version 2 or newer
+
