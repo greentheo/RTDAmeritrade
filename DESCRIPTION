@@ -7,4 +7,4 @@ Maintainer: Theodore Van Rooy <theodore.vanrooy@gmail.com>
 Depends: R (>= 2.9.1), xts, zoo, XML, RCurl, sfsmisc
 Description: The package contains functions that can be used to interface with the TDAmeritrade API.
 License: GPL version 2 or newer
-
+URL: http://greentheo.github.com/RTDAmeritrade
